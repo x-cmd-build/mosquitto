@@ -1,0 +1,1 @@
+mosquitto static binary
